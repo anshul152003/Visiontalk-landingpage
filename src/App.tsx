@@ -56,7 +56,7 @@ function App() {
               whileTap={{ scale: 0.95 }}
               className="bg-indigo-600 text-white px-8 py-4 rounded-full font-medium hover:bg-indigo-700 transition-colors flex items-center justify-center space-x-2"
             >
-              <a href="https://vision-talk.netlify.app/meeting/263a21d3-2d5c-4406-aadc-0edfa730036c">Start Meeting Now</a>
+              <a href="https://proud-stingray-43.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fvision-talk-lac.vercel.app%2F">Start Meeting Now</a>
               <ArrowRight className="w-5 h-5" />
             </motion.button>
             <motion.button
@@ -64,7 +64,7 @@ function App() {
               whileTap={{ scale: 0.95 }}
               className="border-2 border-indigo-600 text-indigo-600 px-8 py-4 rounded-full font-medium hover:bg-indigo-50 transition-colors"
             >
-              <a href="https://vision-talk-lac.vercel.app/">Schedule a Meeting</a>
+              <a href="https://proud-stingray-43.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fvision-talk-lac.vercel.app%2F">Schedule a Meeting</a>
               
             </motion.button>
           </motion.div>
