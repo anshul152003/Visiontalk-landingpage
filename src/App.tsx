@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { Video, Users, Globe2, Shield, ArrowRight, Mail, Phone, MapPin, Twitter, Linkedin, Github } from 'lucide-react';
 
+
 function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-indigo-50 via-white to-indigo-50">
@@ -11,7 +12,7 @@ function App() {
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             className="flex items-center space-x-2"
-            
+
           >
             <Video className="h-8 w-8 text-indigo-600" />
             <span className="text-2xl font-bold text-gray-900">VisionTalk</span>
