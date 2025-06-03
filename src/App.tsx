@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Video, Users, Globe2, Shield, ArrowRight, MessageCircle, Mail, Phone, MapPin, Twitter, Linkedin, Github } from 'lucide-react';
+import { Video, Users, Globe2, Shield, ArrowRight, Mail, Phone, MapPin, Twitter, Linkedin, Github } from 'lucide-react';
 
 function App() {
   return (
