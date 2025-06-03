@@ -11,6 +11,7 @@ function App() {
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             className="flex items-center space-x-2"
+            
           >
             <Video className="h-8 w-8 text-indigo-600" />
             <span className="text-2xl font-bold text-gray-900">VisionTalk</span>
